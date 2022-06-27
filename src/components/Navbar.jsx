@@ -13,7 +13,7 @@ const Navbar = () => {
     >
         {/*------------LOGO------------*/}
         <div className='navbar_logo'>
-            <h1>Metaverse</h1>
+            <h1>Metacube</h1>
         </div>
 
 
