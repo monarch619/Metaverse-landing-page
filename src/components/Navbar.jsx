@@ -19,7 +19,7 @@ const Navbar = () => {
 
         {/*------------PROFILE-IMAGE------------*/}
         <motion.div className='navbar_profile-image' initial={{ y: 15, opacity: 0.5 }} animate={{ y: 0, opacity: 1 }}>
-            <img src='https://i.postimg.cc/QMpddQ1J/julian-wan-WNo-Ln-Jo7t-S8-unsplash.jpg' alt='profile-img' />
+            <img src='#' />
             <span><MdSort /></span>
         </motion.div>
 
