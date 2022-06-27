@@ -15,19 +15,12 @@ const Navbar = () => {
         <div className='navbar_logo'>
             <h1>Metacube</h1>
         </div>
-
-
-   
-
-
         {/*------------TOGGLE-BUTTON------------*/}
         <div className='navbar_toggle-button'>
             <button onClick={() => setMenu(!menu) }>
                 { menu ? <MdOutlineClose /> : <MdMenu /> }
             </button>
         </div>
-
-
         {/*------------LINKS------------*/}
         <div className='navbar_links-container' data-show={menu && 'true'}>
             <ul className='links'>
