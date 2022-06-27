@@ -17,11 +17,7 @@ const Navbar = () => {
         </div>
 
 
-        {/*------------PROFILE-IMAGE------------*/}
-        <motion.div className='navbar_profile-image' initial={{ y: 15, opacity: 0.5 }} animate={{ y: 0, opacity: 1 }}>
-            <img src='#' />
-            <span><MdSort /></span>
-        </motion.div>
+   
 
 
         {/*------------TOGGLE-BUTTON------------*/}
