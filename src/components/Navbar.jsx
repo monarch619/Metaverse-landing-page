@@ -35,10 +35,12 @@ const Navbar = () => {
         {/*------------LINKS------------*/}
         <div className='navbar_links-container' data-show={menu && 'true'}>
             <ul className='links'>
-                <li>Index</li>
+                <li>Market place</li>
                 <li>Stacking</li>
                 <li>Digital Twin</li>
-                <li>Affiliate</li>
+                <li>NFTs</li>
+                <li>Metaverse</li>
+                <li>Get from Tinyman</li>
             </ul>
         </div>
 
