@@ -45,7 +45,7 @@ const Header = () => {
           {/*--------BANNER-INTRO--------*/}
           <motion.div className='banner_intro' variants={containerVariants} initial='initial' animate='animate'>
             <motion.h1 variants={contentVariants}>Find Your <span>Space</span> in Metaverse Built on Algo Chain</motion.h1>
-            <motion.p variants={contentVariants}>The Metaverse Studio focuses on opening portals to digital spaces for our partners</motion.p>
+            <motion.p variants={contentVariants}>The Metaverse Studio focuses on opening portals to digital spaces for our partners with a whole new level of gaming,thats why we choose Algorand to build this</motion.p>
             <motion.button variants={contentVariants}>Get in touch</motion.button>
           </motion.div>
 
