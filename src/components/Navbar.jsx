@@ -13,7 +13,7 @@ const Navbar = () => {
     >
         {/*------------LOGO------------*/}
         <div className='navbar_logo'>
-            <h1>Metacube</h1>
+            <h1>Metacubex</h1>
         </div>
         {/*------------TOGGLE-BUTTON------------*/}
         <div className='navbar_toggle-button'>
@@ -29,7 +29,8 @@ const Navbar = () => {
                 <li>Digital Twin</li>
                 <li>NFTs</li>
                 <li>Metaverse</li>
-                <li>Get from Tinyman</li>
+                <li>Get from Algodex</li>
+               <li>Get from Tinyman</li>
             </ul>
         </div>
 
