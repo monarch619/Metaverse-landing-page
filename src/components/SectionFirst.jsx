@@ -27,7 +27,7 @@ const SectionFirst = () => {
 
         {/*-------------IMAGE--------------*/}
         <motion.figure className='section_figure' initial={{ y: 70, opacity: 0 }} whileInView={{ y: 0, opacity: 1, transition: { delay: .3, duration: .7 } }} viewport={{ once: true }}>
-            <img src="https://i.postimg.cc/y6LvGVJG/brain.png" alt='brain-img' />
+            <img src="https://i.postimg.cc/y6GbgXpg/400x225-cmsv2-b23c84b5-981e-5e41-be22-e40195b7b848-6613494-removebg-preview.png" alt='brain-img' />
         </motion.figure>
 
 
