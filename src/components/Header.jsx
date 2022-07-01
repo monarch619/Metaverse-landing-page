@@ -84,11 +84,7 @@ const Header = () => {
           </motion.div>
 
 
-          {/*--------BANNER-IMAGE--------*/}
-          <motion.figure className='astraunat-img' initial={{ y: 70, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 1, duration: .7 }}>
-            <img src='https://i.postimg.cc/fbzBw5Gw/Real-astronaut-transparent-PNG-5000x5000.png' alt='astronaut' />
-          </motion.figure>
-
+          
         </div>
     </Banner>
   )
