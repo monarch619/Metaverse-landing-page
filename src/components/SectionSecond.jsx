@@ -29,7 +29,7 @@ const SectionSecond = () => {
 
         {/*-------------IMAGE--------------*/}
         <motion.figure className='section_figure' initial={{ y: 70, opacity: 0 }} whileInView={{ y: 0, opacity: 1, transition: { delay: .3, duration: .7 } }} viewport={{ once: true }}>
-           <img src="https://i.postimg.cc/GtS9Q0C1/brain2.png" alt='motherboard-img' />
+           <img src="https://i.postimg.cc/bJXkqPp8/Group-19936-min-removebg-preview.png" alt='motherboard-img' />
         </motion.figure>
 
 
