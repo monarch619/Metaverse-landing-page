@@ -13,7 +13,7 @@ const Navbar = () => {
     >
         {/*------------LOGO------------*/}
         <div className='navbar_logo'>
-            <h1>Metacubex</h1>
+            <h1>PLAYTIME</h1>
         </div>
         {/*------------TOGGLE-BUTTON------------*/}
         <div className='navbar_toggle-button'>
@@ -25,10 +25,9 @@ const Navbar = () => {
         <div className='navbar_links-container' data-show={menu && 'true'}>
             <ul className='links'>
                 <li>Market place</li>
-                <li>Stacking</li>
-                <li>Digital Twin</li>
+                <li>Games</li>
                 <li>NFTs</li>
-                <li>Metaverse</li>
+                <li>Characters</li>
                 <li>Get from Algodex</li>
                <li>Get from Tinyman</li>
             </ul>
