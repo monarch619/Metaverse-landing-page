@@ -25,7 +25,7 @@ const Footer = () => {
 
         {/*-------------FOOTER-LEFT-SIDE-------------*/}
         <motion.figure className='footer_image' initial={controls.initial} whileInView={controls.animate} viewport={{ once: true}}>
-            <img src='https://i.postimg.cc/hvpzQpmc/Real-astronaut-transparent-PNG-5000x5000.png' alt='astraunat' />
+            <img src='https://i.postimg.cc/YSz63MTT/Pngtree-video-game-controller-4830279-removebg-preview.png' alt='astraunat' />
         </motion.figure>
 
 
