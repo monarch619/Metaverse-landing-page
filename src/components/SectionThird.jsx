@@ -25,27 +25,27 @@ const controls = {
 const images = [
   {
     name: 'Quixel',
-    image: 'https://i.postimg.cc/vTbq3C79/widen-920x0.png'
+    image: ''
   },
   {
     name:'unreal engine',
-    image: 'https://i.postimg.cc/kXYBkDPb/pes-2022-unreal-engine-1.png'
+    image: ''
   },
   {
     name: 'xbox',
-    image: 'https://i.postimg.cc/jS8m60NK/xbox-live.png'
+    image: ''
   },
   {
     name: 'play station',
-    image: 'https://i.postimg.cc/fbGH5wb4/395-3953048-file-playstation-logo-svg-wikimedia-commons-playstation-logo.png'
+    image: ''
   },
   {
     name: 'unity',
-    image: 'https://i.postimg.cc/gJbD8NMm/ogimg.png'
+    image: ''
   },
   {
     name: 'oculus',
-    image: 'https://i.postimg.cc/XJgwF3Gk/Oculus-Logo.png'
+    image: ''
   }
 ]
 
@@ -57,7 +57,7 @@ const SectionThird = () => {
 
         {/*-----------TITLE------------*/}
         <motion.div className="section_header" custom={1} initial={controls.initial} whileInView={controls.animate} viewport={{ once: true }}>
-            <h1>Technologies we use</h1>
+            <h1>#</h1>
         </motion.div>
 
         {/*-----------CONTENT------------*/}
