@@ -23,33 +23,8 @@ const controls = {
 
 /*--------Images--------*/
 const images = [
-  {
-    name: 'Quixel',
-    image: ''
-  },
-  {
-    name:'unreal engine',
-    image: ''
-  },
-  {
-    name: 'xbox',
-    image: ''
-  },
-  {
-    name: 'play station',
-    image: ''
-  },
-  {
-    name: 'unity',
-    image: ''
-  },
-  {
-    name: 'oculus',
-    image: ''
-  }
+  
 ]
-
-
 
 const SectionThird = () => {
   return (
@@ -57,7 +32,7 @@ const SectionThird = () => {
 
         {/*-----------TITLE------------*/}
         <motion.div className="section_header" custom={1} initial={controls.initial} whileInView={controls.animate} viewport={{ once: true }}>
-            <h1>#</h1>
+            <h1></h1>
         </motion.div>
 
         {/*-----------CONTENT------------*/}
